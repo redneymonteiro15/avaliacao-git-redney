@@ -2,3 +2,4 @@ Lista de tarefas:
  - Criar a pagina sobre mim
  - Criar a pagina de login
  - Criar a pagina de contatos
+ - Criar a pagina de registo
